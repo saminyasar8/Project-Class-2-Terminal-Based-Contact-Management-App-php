@@ -14,7 +14,7 @@ function evaluateQuiz( array $questions, array $answers ) : int{
 
 
 $questions = [
-
+d
     
     ['questions' => 'what is 2+2   ?' ,    'correct'=>'4'],
     
